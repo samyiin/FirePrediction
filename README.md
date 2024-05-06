@@ -9,3 +9,4 @@ Also make sure you have directory named "savedFiles/" and "savedModel/". Then yo
 The entire notebook takes about 15 minutes to run on CPU, and 10 minutes on T4GPU. I recommend using google collab. 
 ## About the project
 In this project I used various exploratory data analysis and feature engineering techniques, I also includes all the previous failed attempts. Worth checking it out. They are run on google collab, so the file system might be a bit different. But it shouldn't be too hard to understand. 
+And after the feature engineering and feature selections, I perform experiments on CatBoost, XGboost, Random Forest and decision tree. The first three models are preforming equally well. 
